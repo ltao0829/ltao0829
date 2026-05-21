@@ -65,8 +65,7 @@
 ## 📫 联系我 / Contact Me
 
 *   🌍 个人主页: [ltao0829.github.io/my-personal-site/](https://ltao0829.github.io/my-personal-site/)
-*   ✉️ 电子邮箱: 你的邮箱（可以在编辑时修改）
+*   ✉️ 电子邮箱: ltao0829@gmail.com
 
-<p align="center">
-  图像素材与灵感来自：<i>Family Guy - Brian Griffin</i> 🐶
+
 </p>
