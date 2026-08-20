@@ -1,8 +1,8 @@
-# 👋 你好，我是 LiuTao（ltao0829）
+# 👋 Hi, I'm LiuTao (@ltao0829)
 
 <p align="center">
   <a href="https://ltao0829.github.io/my-personal-site/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=760&lines=%E5%85%B3%E6%B3%A8%E6%8A%80%E6%9C%AF%E3%80%81%E5%88%9B%E4%BD%9C%E4%B8%8E%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89;%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA%E6%9C%89%E6%B8%A9%E5%BA%A6%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99;Hello%2C%20World!%20Welcome%20to%20my%20profile." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=760&lines=Building%20useful%20little%20tools%20for%20the%20web;DeepSeek%20Harness%20plugin%20developer;Writing%20daily%20at%20Mazi's%20Blog." alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,17 +14,17 @@
 
 ---
 
-## 💫 关于我 · About Me
+## 💫 About Me
 
-- 🌱 持续学习 **前端开发、自动化构建** 与 **极简主义建站**
-- 🛠️ 热衷为 **DeepSeek Harness（DSH）** 生态编写插件
-- ✍️ 在 [Mazi's Blog](https://ltao0829.github.io/my-personal-site/) 记录对工作、学习与生活的思考
-- 🚀 关注长期价值、信息过滤与自我表达
-- 🐶 《恶搞之家》忠实粉丝
+- 🌱 Currently exploring **frontend development, automation**, and **minimalist websites**
+- 🛠️ Building plugins for the **DeepSeek Harness (DSH)** ecosystem
+- ✍️ Writing daily at [Mazi's Blog](https://ltao0829.github.io/my-personal-site/)
+- 🚀 Interested in long-term value, information filtering, and self-expression
+- 🐶 Big fan of *Family Guy*
 
 ---
 
-## 🛠️ 技术栈 · Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -40,48 +40,47 @@
 
 ---
 
-## 🚀 精选项目 · Featured Projects
+## 🚀 Featured Projects
 
-| 项目 | 说明 | Stars |
+| Project | Description | Stars |
 | :--- | :--- | :---: |
-| [**dsh-task-notify**](https://github.com/ltao0829/dsh-task-notify) | DeepSeek Harness 任务完成提醒插件 | ![Stars](https://img.shields.io/github/stars/ltao0829/dsh-task-notify?style=flat-square&color=3b82f6) |
-| [**dsh-launcher**](https://github.com/ltao0829/dsh-launcher) | DeepSeek Harness（DSH）Web 一键启动器 | ![Stars](https://img.shields.io/github/stars/ltao0829/dsh-launcher?style=flat-square&color=3b82f6) |
-| [**my-personal-site**](https://github.com/ltao0829/my-personal-site) | 极简主义个人博客（Mazi's Blog） | ![Stars](https://img.shields.io/github/stars/ltao0829/my-personal-site?style=flat-square&color=3b82f6) |
+| [**dsh-task-notify**](https://github.com/ltao0829/dsh-task-notify) | Task lifecycle notifications for AI coding agents (DSH plugin) | ![Stars](https://img.shields.io/github/stars/ltao0829/dsh-task-notify?style=flat-square&color=3b82f6) |
+| [**dsh-launcher**](https://github.com/ltao0829/dsh-launcher) | One-click Windows launcher for the DeepSeek Harness web UI | ![Stars](https://img.shields.io/github/stars/ltao0829/dsh-launcher?style=flat-square&color=3b82f6) |
+| [**my-personal-site**](https://github.com/ltao0829/my-personal-site) | Minimal, privacy-friendly personal blog (Mazi's Blog) | ![Stars](https://img.shields.io/github/stars/ltao0829/my-personal-site?style=flat-square&color=3b82f6) |
 
 ---
 
-## 📊 GitHub 统计 · Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ltao0829&show_icons=true&theme=transparent&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&bg_color=00000000&hide_border=true&hide=issues" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltao0829&layout=compact&theme=transparent&title_color=3b82f6&text_color=94a3b8&bg_color=00000000&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ltao0829&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=94A3B8&sideLabels=94A3B8" alt="GitHub Streak" />
 </p>
 
----
-
-## 📡 博客动态 · Blog Feed
-
-坚持每天写一点，已更新到 **第 66 期**。最新文章：
-
-- 📰 [第 066 期：纯文本的尊严](https://ltao0829.github.io/my-personal-site/posts/066.html)
-- 📰 [第 065 期：静态页面的尊严](https://ltao0829.github.io/my-personal-site/posts/065.html)
-- 📰 [第 064 期：终身占有的尊严](https://ltao0829.github.io/my-personal-site/posts/064.html)
-
-📬 欢迎通过 [RSS](https://ltao0829.github.io/my-personal-site/feed.xml) 订阅，或在博客下留言讨论。
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ltao0829&bg_color=00000000&color=3b82f6&line=3b82f6&point=94a3b8&area=true&hide_border=true&days=31" alt="Contribution activity graph" />
+</p>
 
 ---
 
-## 📫 联系我 · Contact
+## 📡 Latest Blog Posts
 
-- 🌍 个人主页：[ltao0829.github.io/my-personal-site](https://ltao0829.github.io/my-personal-site/)
-- ✉️ 电子邮箱：[ltao0829@gmail.com](mailto:ltao0829@gmail.com)
+Writing every day — now up to **issue #66**. Latest posts:
+
+- 📰 [Issue 066: The Dignity of Plain Text](https://ltao0829.github.io/my-personal-site/posts/066.html)
+- 📰 [Issue 065: The Dignity of Static Pages](https://ltao0829.github.io/my-personal-site/posts/065.html)
+- 📰 [Issue 064: The Dignity of Lifetime Ownership](https://ltao0829.github.io/my-personal-site/posts/064.html)
+
+📬 Subscribe via [RSS](https://ltao0829.github.io/my-personal-site/feed.xml) or leave a comment under any post.
+
+---
+
+## 📫 Contact
+
+- 🌍 Website: [ltao0829.github.io/my-personal-site](https://ltao0829.github.io/my-personal-site/)
+- ✉️ Email: [ltao0829@gmail.com](mailto:ltao0829@gmail.com)
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting! 如果我的项目对你有帮助，欢迎点个 ⭐ Star～</i>
+  <i>Thanks for visiting! If my projects help you, a ⭐ star is much appreciated.</i>
 </p>
