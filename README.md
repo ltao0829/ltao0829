@@ -16,11 +16,9 @@
 
 ## 💫 About Me
 
-- 🌱 Currently exploring **frontend development, automation**, and **minimalist websites**
-- 🛠️ Building plugins for the **DeepSeek Harness (DSH)** ecosystem
-- ✍️ Writing daily at [Mazi's Blog](https://ltao0829.github.io/my-personal-site/)
-- 🚀 Interested in long-term value, information filtering, and self-expression
-- 🐶 Big fan of *Family Guy*
+**Open-source developer building tooling for AI coding agents.**
+
+I build plugins and developer tools for AI coding-agent workflows, currently focused on the DeepSeek Harness (DSH) plugin ecosystem.
 
 ---
 
