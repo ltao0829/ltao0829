@@ -51,11 +51,11 @@ I build plugins and developer tools for AI coding-agent workflows, currently foc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ltao0829&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=94A3B8&sideLabels=94A3B8" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ltao0829&bg_color=00000000&color=3b82f6&line=3b82f6&point=94a3b8&area=true&hide_border=true&days=31" alt="Contribution activity graph" />
+  <img src="./profile/activity-graph.svg" alt="Contribution activity graph" />
 </p>
 
 ---

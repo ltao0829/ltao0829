@@ -1,0 +1,48 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at 00:00 UTC (08:00 CST)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@v1.6.0
+        with:
+          options: "user=ltao0829&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=94A3B8&sideLabels=94A3B8"
+          path: "profile/streak.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@main
+        with:
+          username: ltao0829
+          options: "bg_color=00000000&color=3b82f6&line=3b82f6&point=94a3b8&area=true&hide_border=true&days=31"
+          output_path: "profile/activity-graph.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg profile/activity-graph.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update profile stats SVGs"
+            git push
+          fi
