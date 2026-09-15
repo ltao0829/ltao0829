@@ -45,6 +45,7 @@ I build plugins and developer tools for AI coding-agent workflows, currently foc
 | [**dsh-task-notify**](https://github.com/ltao0829/dsh-task-notify) | Task lifecycle notifications for AI coding agents (DSH plugin) | ![Stars](https://img.shields.io/github/stars/ltao0829/dsh-task-notify?style=flat-square&color=3b82f6) |
 | [**dsh-launcher**](https://github.com/ltao0829/dsh-launcher) | One-click Windows launcher for the DeepSeek Harness web UI | ![Stars](https://img.shields.io/github/stars/ltao0829/dsh-launcher?style=flat-square&color=3b82f6) |
 | [**my-personal-site**](https://github.com/ltao0829/my-personal-site) | Minimal, privacy-friendly personal blog (Mazi's Blog) | ![Stars](https://img.shields.io/github/stars/ltao0829/my-personal-site?style=flat-square&color=3b82f6) |
+| [**buaa-auto-auth**](https://github.com/ltao0829/buaa-auto-auth) | Daily campus-network (SRun) re-authentication for one Windows machine | ![Stars](https://img.shields.io/github/stars/ltao0829/buaa-auto-auth?style=flat-square&color=3b82f6) |
 
 ---
 
