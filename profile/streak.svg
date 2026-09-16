@@ -11,7 +11,7 @@
 
   <!-- Left: Total Contributions -->
   <g transform="translate(82.5, 0)">
-    <text x="0" y="70" class="side-number">67</text>
+    <text x="0" y="70" class="side-number">77</text>
     <text x="0" y="105" class="side-label">Total Contributions</text>
     <text x="0" y="130" class="stat-date">Sep 14, 2025 - Present</text>
   </g>
@@ -27,9 +27,9 @@
     <!-- Fire Icon -->
     <path d="M-6,44 C-10,50 -10,56 -4,60 C-2,61 -1,62 -1,64 C-1,66 -3,68 -5,67 C-2,72 5,72 7,67 C9,62 8,58 3,55 C1,54 0,53 1,51 C3,48 4,46 1,42 C-2,44 -4,43 -6,44 Z" fill="#3B82F6" transform="scale(0.8) translate(-1, -6)" />
     
-    <text x="0" y="68" class="stat-number">2</text>
+    <text x="0" y="68" class="stat-number">3</text>
     <text x="0" y="125" class="stat-label">Current Streak</text>
-    <text x="0" y="148" class="stat-date">Sep 13 - Sep 14</text>
+    <text x="0" y="148" class="stat-date">Sep 13 - Sep 15</text>
   </g>
 
   <!-- Divider 2 -->
