@@ -31,9 +31,9 @@
   
 
   <!-- X Labels -->
-  <text x="40.0" y="275" class="axis-label" text-anchor="middle">Oct 5</text>
-  <text x="208.0" y="275" class="axis-label" text-anchor="middle">Oct 12</text>
-  <text x="400.0" y="275" class="axis-label" text-anchor="middle">Oct 20</text>
-  <text x="592.0" y="275" class="axis-label" text-anchor="middle">Oct 28</text>
-  <text x="760.0" y="275" class="axis-label" text-anchor="middle">Nov 4</text>
+  <text x="40.0" y="275" class="axis-label" text-anchor="middle">Oct 6</text>
+  <text x="208.0" y="275" class="axis-label" text-anchor="middle">Oct 13</text>
+  <text x="400.0" y="275" class="axis-label" text-anchor="middle">Oct 21</text>
+  <text x="592.0" y="275" class="axis-label" text-anchor="middle">Oct 29</text>
+  <text x="760.0" y="275" class="axis-label" text-anchor="middle">Nov 5</text>
 </svg>
